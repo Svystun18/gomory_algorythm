@@ -1,5 +1,3 @@
-# gomory_algorythm
-#include "data.h"
 
 #define N 10
 using std::string;
